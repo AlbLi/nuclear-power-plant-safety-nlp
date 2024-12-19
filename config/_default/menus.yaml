@@ -1,0 +1,13 @@
+main:
+  - name: Problem Statement
+    url: problem-statement/
+    weight: 10
+  - name: Approach
+    url: approach/
+    weight: 20
+  - name: Data
+    url: data/
+    weight: 30
+  - name: Results
+    url: results/
+    weight: 40
