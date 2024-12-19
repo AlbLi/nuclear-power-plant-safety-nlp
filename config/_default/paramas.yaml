@@ -1,0 +1,8 @@
+appearance:
+  theme_day: minimal
+  font: minimal
+
+header:
+  navbar:
+    enable: true
+    show_search: true
