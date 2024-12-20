@@ -1,19 +1,30 @@
 # 🏭 Natural Language Processing of Safety Reports in Nuclear Power Plants
-
 ## 📋 Project Overview
 This project analyzes nuclear safety reports using Natural Language Processing (NLP) and Large Language Models (LLM) to identify and classify safety issues according to regulatory traits.
+
+<nav class="table-of-contents sticky top-0 bg-gray-900 text-white p-4">
+## 📚 Table of Contents
+- [Key Features](#-key-features)
+- [Technologies Used](#-technologies-used)
+- [Results](#-results) 
+- [Team](#-team)
+- [Faculty Advisors](#-faculty-advisors)
+- [Documentation](#-documentation)
+- [Links](#-links)
+- [License](#-license)
+</nav>
 
 ## 🎯 Key Features
 - 🤖 Multiple ML/NLP approaches implemented:
   - Claude-2 LLM (79% accuracy)
-  - Seed Word Model (58% accuracy)
+  - Seed Word Model (58% accuracy) 
   - Logistic Regression Model (51% accuracy)
 - 📊 Analysis of Diablo Canyon Power Plant safety reports
 - 🔍 Classification based on INPO safety culture traits
 
 ## 🛠 Technologies Used
 - Python
-- Natural Language Processing
+- Natural Language Processing 
 - Large Language Models (Claude-2, GPT-3.5)
 - Machine Learning (Logistic Regression, Seed Word)
 
@@ -29,7 +40,7 @@ This project analyzes nuclear safety reports using Natural Language Processing (
 
 ## 🎓 Faculty Advisors
 - Dr. Najmedin Meshkati
-- Dr. Yolanda Gil
+- Dr. Yolanda Gil 
 - Prof. Ulf Hermjakob
 
 ## 📚 Documentation
